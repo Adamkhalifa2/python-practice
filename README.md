@@ -1,6 +1,10 @@
 **Python Practice**
-Name: Ndiema Adam Cheroben
-Admission Number: 172024
+
+**Name:** Ndiema Adam Cheroben
+
+**Admission Number:** 172024
+
+
 **Overview**
 
 
